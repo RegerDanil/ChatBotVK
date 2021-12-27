@@ -1,0 +1,12 @@
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\bin\Debug\net5.0\Chat_Bot_Config.deps.json
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\bin\Debug\net5.0\Chat_Bot_Config.dll
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\bin\Debug\net5.0\ref\Chat_Bot_Config.dll
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\bin\Debug\net5.0\Chat_Bot_Config.pdb
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\obj\Debug\net5.0\Chat_Bot_Config.csproj.AssemblyReference.cache
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\obj\Debug\net5.0\Chat_Bot_Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\obj\Debug\net5.0\Chat_Bot_Config.AssemblyInfoInputs.cache
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\obj\Debug\net5.0\Chat_Bot_Config.AssemblyInfo.cs
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\obj\Debug\net5.0\Chat_Bot_Config.csproj.CoreCompileInputs.cache
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\obj\Debug\net5.0\Chat_Bot_Config.dll
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\obj\Debug\net5.0\ref\Chat_Bot_Config.dll
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Chat_Bot_Config\obj\Debug\net5.0\Chat_Bot_Config.pdb

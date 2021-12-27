@@ -1,0 +1,5 @@
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Vk_Bot\obj\Debug\net5.0\Vk_Bot.csproj.AssemblyReference.cache
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Vk_Bot\obj\Debug\net5.0\Vk_Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Vk_Bot\obj\Debug\net5.0\Vk_Bot.AssemblyInfoInputs.cache
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Vk_Bot\obj\Debug\net5.0\Vk_Bot.AssemblyInfo.cs
+C:\Users\RegDar\source\repos\Chat_Bot_Config\Vk_Bot\obj\Debug\net5.0\Vk_Bot.csproj.CoreCompileInputs.cache
